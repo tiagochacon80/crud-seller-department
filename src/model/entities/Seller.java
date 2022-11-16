@@ -28,12 +28,12 @@ public class Seller implements Serializable {
 		this.department = department;
 	}
 
-	public Integer getD() {
+	public Integer getId() {
 		return id;
 	}
 
-	public void setD(Integer d) {
-		this.id = d;
+	public void setId(Integer id) {
+		this.id = id;
 	}
 
 	public String getName() {
